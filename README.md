@@ -53,5 +53,3 @@ The API itself is documented and maintained here:
 ## Notes
 
 - The current script is focused on Kansas basketball, but the ncaa-api endpoint can be swapped for other sports or divisions.
-- The bot currently uses a fixed scoreboard endpoint and a fixed audio file path.
-- If you deploy this publicly, move secrets like the bot token out of source control.
